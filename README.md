@@ -1,2 +1,2 @@
 # EEGnet_Pytorch
-A pytorch implementation of EEGnet that could easily run on google colab
+This is a pytorch implementation of [EEGnet](https://arxiv.org/abs/1611.08024) that could easily run on google colab
